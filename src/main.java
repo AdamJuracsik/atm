@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
-
+        //It is a functional atm program where you can deposit and withdraw the money
         Scanner input = new Scanner(System.in);
         int balance = 5000;
         int chosenOption;
